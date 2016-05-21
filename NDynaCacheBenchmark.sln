@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDispatchPatternApp", "MultipleDispatchPatternApp\MultipleDispatchPatternApp.csproj", "{C021C2A2-F5B4-4850-81DE-C4EA9C596152}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDynaCacheBenchmarkApp", "NDynaCacheBenchmarkApp\NDynaCacheBenchmarkApp.csproj", "{C021C2A2-F5B4-4850-81DE-C4EA9C596152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynaCache.Activator", "DynaCache.Activator\DynaCache.Activator.csproj", "{79EB38CC-FEB6-4A9C-A1A4-48B5462B60EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C021C2A2-F5B4-4850-81DE-C4EA9C596152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C021C2A2-F5B4-4850-81DE-C4EA9C596152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C021C2A2-F5B4-4850-81DE-C4EA9C596152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EB38CC-FEB6-4A9C-A1A4-48B5462B60EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EB38CC-FEB6-4A9C-A1A4-48B5462B60EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EB38CC-FEB6-4A9C-A1A4-48B5462B60EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EB38CC-FEB6-4A9C-A1A4-48B5462B60EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
